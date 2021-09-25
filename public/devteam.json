@@ -1,11 +1,12 @@
- [
+[
   {
     "name": "Alison",
     "age": 28,
     "post": "UX/UI Designer",
     "technology": "Adobe Illustrator and Photoshop",
     "salary": 40000,
-    "country": "USA"
+    "country": "USA",
+    "img": "https://pofo.b-cdn.net/wp-content/uploads/2017/08/team29.jpg"
   },
   {
     "name": "Laura",
@@ -13,7 +14,8 @@
     "post": "3D Animation Designer",
     "technology": "Akeystu, 3ds Max",
     "salary": 65000,
-    "country": "UK"
+    "country": "UK",
+    "img": "https://garwaresuncontrol.com/wp-content/uploads/2018/08/sortcode-04-500x500.jpg"
   },
   {
     "name": "Beckham",
@@ -21,7 +23,8 @@
     "post": "Marketing Manager",
     "technology": "Digital Marketing",
     "salary": 30000,
-    "country": "Canada"
+    "country": "Canada",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LoiG4est6GioRTobTonbLnibYu5Cq8r7CUkfwkB9VFCiv3GYgf0Anvu_H-b58aKwLnE&usqp=CAU"
   },
   {
     "name": "David",
@@ -29,7 +32,8 @@
     "post": "Lead Programmer",
     "technology": "HTML5, CSS3, React, Node, MongoDB, Python, Django",
     "salary": 70000,
-    "country": "Portland"
+    "country": "Portland",
+    "img": "https://franchisematch.com/wp-content/uploads/2015/02/john-doe.jpg"
   },
   {
     "name": "Paul",
@@ -37,7 +41,8 @@
     "post": "Asst. Lead Programmer",
     "technology": "React, Node, MongoDB",
     "salary": 60000,
-    "country": "Colorado"
+    "country": "Colorado",
+    "img": "https://i.pinimg.com/474x/1d/d5/f4/1dd5f4671823ade062318529d7ff19e5--bearded-guys-male-faces.jpg"
   },
   {
     "name": "Jinia",
@@ -45,7 +50,8 @@
     "post": "Asst. 3D Animation Designer",
     "technology": "Motionbuilder, 3ds Max",
     "salary": 50000,
-    "country": "UK"
+    "country": "UK",
+    "img": "https://www.orthodonticexprts.com/wp-content/uploads/2020/01/team-3.jpg"
   },
   {
     "name": "Willson",
@@ -53,7 +59,8 @@
     "post": "Senior Programmer",
     "technology": "C#, C++, Python, MySQL, Django",
     "salary": 50000,
-    "country": "England"
+    "country": "England",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQejuGeRdj25sap7AjqgSpuXRuB07Usp2C2dT06ZnPIdAyw_apePtTMXI0YgV8tyeptY&usqp=CAU"
   },
   {
     "name": "Anderson",
@@ -61,7 +68,8 @@
     "post": "Graphics Support",
     "technology": "Canon EOS R6, Canon EOS 1200D",
     "salary": 30000,
-    "country": "Philippines"
+    "country": "Philippines",
+    "img": "https://lh3.googleusercontent.com/proxy/YJz8PFjam5ZmiqBwH5Gn3T8S7Aay7WTlS39hsVEV7kfzDbb9Ph4XHVZxIHXtoEDBFmEyLvg3yya6Rm8SI5iR5EVW1fZ4xp4DCGvKLOcv6xwziibL8Fezz809N4UL"
   },
   {
     "name": "Slovakia",
@@ -69,7 +77,8 @@
     "post": "Senior Front-End Developer",
     "technology": "React, Node, HTML5, CSS3 and Frameworks",
     "salary": 55000,
-    "country": "Russia"
+    "country": "Russia",
+    "img": "https://i2.wp.com/box5457.temp.domains/~pksmusic/wp-content/uploads/2021/05/team-member-05.jpg?w=1140"
   },
   {
     "name": "Parker",
@@ -77,7 +86,8 @@
     "post": "Junior Front-End Developer",
     "technology": "React, HTML5, CSS3, Tailwind",
     "salary": 35000,
-    "country": "France"
+    "country": "France",
+    "img": "https://dailyuremedy.ch/wp-content/uploads/2020/08/t3.jpg"
   },
   {
     "name": "Alfredo",
@@ -85,7 +95,8 @@
     "post": "Senior Cyber Security Expert",
     "technology": "Networking, Ethical Hacking, Security Maintenance",
     "salary": 80000,
-    "country": "Russia"
+    "country": "Russia",
+    "img": "https://www.transitivemanagement.com/files/uploads/2013/11/dummy_team_member.jpg"
   },
   {
     "name": "Jesse",
@@ -93,7 +104,8 @@
     "post": "Junior Cyber Security Expert",
     "technology": "Ethical Hacking, Security Maintenance",
     "salary": 40000,
-    "country": "Spain"
+    "country": "Spain",
+    "img": "https://i.pinimg.com/474x/ed/b8/cb/edb8cbb16e832a3d43f1a27ed91688d1--turkish-actors-guys.jpg"
   },
   {
     "name": "Frank",
@@ -101,7 +113,8 @@
     "post": "Senior Back-End Developer",
     "technology": "JavaScript, Python, Ruby, C#",
     "salary": 70000,
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "img": "https://images.squarespace-cdn.com/content/v1/51047986e4b0f96ff4ffc8e0/1492104123103-GZYTFQK9HRLYE0HUDN4Q/Mens-Accessories-Tie-Bow-pocket-square"
   },
   {
     "name": "Tom",
@@ -109,7 +122,8 @@
     "post": "Junior Back-End Developer",
     "technology": "JavaScript, Ruby",
     "salary": 40000,
-    "country": "USA"
+    "country": "USA",
+    "img": "https://d5t4h5a9.rocketcdn.me/wp-content/uploads/2021/04/Website-Photo-18.png"
   },
   {
     "name": "Jesson",
@@ -117,7 +131,8 @@
     "post": "Sound Composer",
     "technology": "Ableton Live, FL Studio, Logic Pro",
     "salary": 50000,
-    "country": "Malaysia"
+    "country": "Malaysia",
+    "img": "https://images.squarespace-cdn.com/content/v1/530ce8d1e4b067ea68a9f821/1581449962083-67IDC9G953V6NDKW9ULU/corporate+business+headshot+los+angeles.jpg"
   },
   {
     "name": "Edisson",
@@ -125,7 +140,8 @@
     "post": "Quality Tester",
     "technology": "Functional Test, Stability Test, Performance Test",
     "salary": 55000,
-    "country": "UK"
+    "country": "UK",
+    "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Tracy_Wright_Corvo_Photography_busienss_headshot-8.jpg"
   },
   {
     "name": "Ben",
@@ -133,7 +149,8 @@
     "post": "Database Analyst",
     "technology": "Python, SQL, MySQL, Erwin, Talend",
     "salary": 45000,
-    "country": "Australia"
+    "country": "Australia",
+    "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Tracy_Wright_Corvo_Photography_branding_portrait-9.jpg"
   },
   {
     "name": "Peter",
@@ -141,7 +158,8 @@
     "post": "Producer",
     "technology": "Business Road Map",
     "salary": 60000,
-    "country": "Croatia"
+    "country": "Croatia",
+    "img": "https://subphoto.ca/sy-photos/2018/03/27/20/small_d88bf2_2017_Co_Steven-9510_editja2.jpg"
   },
   {
     "name": "Steven",
@@ -149,7 +167,8 @@
     "post": "Senior AI Expert",
     "technology": "Automation, Machine Language, Machine Vision",
     "salary": 65000,
-    "country": "Costa Rica"
+    "country": "Costa Rica",
+    "img": "https://subphoto.ca/sy-photos/2018/10/25/16/large_069d54b87_2018_Besney_Jonathan-9837.jpg"
   },
   {
     "name": "Thaichi",
@@ -157,6 +176,7 @@
     "post": "Junior AI Expert",
     "technology": "Automation, Machine Language",
     "salary": 30000,
-    "country": "USA"
+    "country": "China",
+    "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/business_headshot-3.jpg"
   }
 ]

@@ -1,0 +1,46 @@
+header.head{
+    background-image: url('../../images/header-bg.jpg');
+    padding: 50px 0px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    z-index: 0;
+}
+header.head::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+header.head h3{
+    color: #FFFFFF;
+    font-size: 30px;
+    background-color: rgba(3, 169, 245, 0.8);
+    padding: 30px 0px;
+    font-weight: 700;
+    border-radius: 10px;
+    box-shadow: 1px 4px 9px -1px #ffffff;
+    z-index: 1;
+    line-height: 45px;
+}
+
+nav.navigation a {
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    color: #FFFFFF;
+    font-weight: 700;
+    border: 2px solid transparent;
+    transition: .5s;
+}
+
+nav.navigation a:hover{
+    border-bottom: 2px solid #03a9f5;
+}
