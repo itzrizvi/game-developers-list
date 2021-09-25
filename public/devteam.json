@@ -1,0 +1,162 @@
+ [
+  {
+    "name": "Alison",
+    "age": 28,
+    "post": "UX/UI Designer",
+    "technology": "Adobe Illustrator and Photoshop",
+    "salary": 40000,
+    "country": "USA"
+  },
+  {
+    "name": "Laura",
+    "age": 25,
+    "post": "3D Animation Designer",
+    "technology": "Akeystu, 3ds Max",
+    "salary": 65000,
+    "country": "UK"
+  },
+  {
+    "name": "Beckham",
+    "age": 30,
+    "post": "Marketing Manager",
+    "technology": "Digital Marketing",
+    "salary": 30000,
+    "country": "Canada"
+  },
+  {
+    "name": "David",
+    "age": 26,
+    "post": "Lead Programmer",
+    "technology": "HTML5, CSS3, React, Node, MongoDB, Python, Django",
+    "salary": 70000,
+    "country": "Portland"
+  },
+  {
+    "name": "Paul",
+    "age": 28,
+    "post": "Asst. Lead Programmer",
+    "technology": "React, Node, MongoDB",
+    "salary": 60000,
+    "country": "Colorado"
+  },
+  {
+    "name": "Jinia",
+    "age": 25,
+    "post": "Asst. 3D Animation Designer",
+    "technology": "Motionbuilder, 3ds Max",
+    "salary": 50000,
+    "country": "UK"
+  },
+  {
+    "name": "Willson",
+    "age": 35,
+    "post": "Senior Programmer",
+    "technology": "C#, C++, Python, MySQL, Django",
+    "salary": 50000,
+    "country": "England"
+  },
+  {
+    "name": "Anderson",
+    "age": 27,
+    "post": "Graphics Support",
+    "technology": "Canon EOS R6, Canon EOS 1200D",
+    "salary": 30000,
+    "country": "Philippines"
+  },
+  {
+    "name": "Slovakia",
+    "age": 29,
+    "post": "Senior Front-End Developer",
+    "technology": "React, Node, HTML5, CSS3 and Frameworks",
+    "salary": 55000,
+    "country": "Russia"
+  },
+  {
+    "name": "Parker",
+    "age": 31,
+    "post": "Junior Front-End Developer",
+    "technology": "React, HTML5, CSS3, Tailwind",
+    "salary": 35000,
+    "country": "France"
+  },
+  {
+    "name": "Alfredo",
+    "age": 33,
+    "post": "Senior Cyber Security Expert",
+    "technology": "Networking, Ethical Hacking, Security Maintenance",
+    "salary": 80000,
+    "country": "Russia"
+  },
+  {
+    "name": "Jesse",
+    "age": 25,
+    "post": "Junior Cyber Security Expert",
+    "technology": "Ethical Hacking, Security Maintenance",
+    "salary": 40000,
+    "country": "Spain"
+  },
+  {
+    "name": "Frank",
+    "age": 28,
+    "post": "Senior Back-End Developer",
+    "technology": "JavaScript, Python, Ruby, C#",
+    "salary": 70000,
+    "country": "Indonesia"
+  },
+  {
+    "name": "Tom",
+    "age": 25,
+    "post": "Junior Back-End Developer",
+    "technology": "JavaScript, Ruby",
+    "salary": 40000,
+    "country": "USA"
+  },
+  {
+    "name": "Jesson",
+    "age": 29,
+    "post": "Sound Composer",
+    "technology": "Ableton Live, FL Studio, Logic Pro",
+    "salary": 50000,
+    "country": "Malaysia"
+  },
+  {
+    "name": "Edisson",
+    "age": 34,
+    "post": "Quality Tester",
+    "technology": "Functional Test, Stability Test, Performance Test",
+    "salary": 55000,
+    "country": "UK"
+  },
+  {
+    "name": "Ben",
+    "age": 28,
+    "post": "Database Analyst",
+    "technology": "Python, SQL, MySQL, Erwin, Talend",
+    "salary": 45000,
+    "country": "Australia"
+  },
+  {
+    "name": "Peter",
+    "age": 38,
+    "post": "Producer",
+    "technology": "Business Road Map",
+    "salary": 60000,
+    "country": "Croatia"
+  },
+  {
+    "name": "Steven",
+    "age": 27,
+    "post": "Senior AI Expert",
+    "technology": "Automation, Machine Language, Machine Vision",
+    "salary": 65000,
+    "country": "Costa Rica"
+  },
+  {
+    "name": "Thaichi",
+    "age": 24,
+    "post": "Junior AI Expert",
+    "technology": "Automation, Machine Language",
+    "salary": 30000,
+    "country": "USA"
+  }
+]
