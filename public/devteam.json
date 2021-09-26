@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Alison",
     "age": 28,
     "post": "UX/UI Designer",
@@ -9,6 +10,7 @@
     "img": "https://pofo.b-cdn.net/wp-content/uploads/2017/08/team29.jpg"
   },
   {
+    "id": 2,
     "name": "Laura",
     "age": 25,
     "post": "3D Animation Designer",
@@ -18,6 +20,7 @@
     "img": "https://garwaresuncontrol.com/wp-content/uploads/2018/08/sortcode-04-500x500.jpg"
   },
   {
+    "id": 3,
     "name": "Beckham",
     "age": 30,
     "post": "Marketing Manager",
@@ -27,6 +30,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LoiG4est6GioRTobTonbLnibYu5Cq8r7CUkfwkB9VFCiv3GYgf0Anvu_H-b58aKwLnE&usqp=CAU"
   },
   {
+    "id": 4,
     "name": "David",
     "age": 26,
     "post": "Lead Programmer",
@@ -36,6 +40,7 @@
     "img": "https://franchisematch.com/wp-content/uploads/2015/02/john-doe.jpg"
   },
   {
+    "id": 5,
     "name": "Paul",
     "age": 28,
     "post": "Asst. Lead Programmer",
@@ -45,6 +50,7 @@
     "img": "https://i.pinimg.com/474x/1d/d5/f4/1dd5f4671823ade062318529d7ff19e5--bearded-guys-male-faces.jpg"
   },
   {
+    "id": 6,
     "name": "Jinia",
     "age": 25,
     "post": "Asst. 3D Animation Designer",
@@ -54,6 +60,7 @@
     "img": "https://www.orthodonticexprts.com/wp-content/uploads/2020/01/team-3.jpg"
   },
   {
+    "id": 7,
     "name": "Willson",
     "age": 35,
     "post": "Senior Programmer",
@@ -63,6 +70,7 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQejuGeRdj25sap7AjqgSpuXRuB07Usp2C2dT06ZnPIdAyw_apePtTMXI0YgV8tyeptY&usqp=CAU"
   },
   {
+    "id": 8,
     "name": "Anderson",
     "age": 27,
     "post": "Graphics Support",
@@ -72,6 +80,7 @@
     "img": "https://lh3.googleusercontent.com/proxy/YJz8PFjam5ZmiqBwH5Gn3T8S7Aay7WTlS39hsVEV7kfzDbb9Ph4XHVZxIHXtoEDBFmEyLvg3yya6Rm8SI5iR5EVW1fZ4xp4DCGvKLOcv6xwziibL8Fezz809N4UL"
   },
   {
+    "id": 9,
     "name": "Slovakia",
     "age": 29,
     "post": "Senior Front-End Developer",
@@ -81,6 +90,7 @@
     "img": "https://i2.wp.com/box5457.temp.domains/~pksmusic/wp-content/uploads/2021/05/team-member-05.jpg?w=1140"
   },
   {
+    "id": 10,
     "name": "Parker",
     "age": 31,
     "post": "Junior Front-End Developer",
@@ -90,6 +100,7 @@
     "img": "https://dailyuremedy.ch/wp-content/uploads/2020/08/t3.jpg"
   },
   {
+    "id": 11,
     "name": "Alfredo",
     "age": 33,
     "post": "Senior Cyber Security Expert",
@@ -99,6 +110,7 @@
     "img": "https://www.transitivemanagement.com/files/uploads/2013/11/dummy_team_member.jpg"
   },
   {
+    "id": 12,
     "name": "Jesse",
     "age": 25,
     "post": "Junior Cyber Security Expert",
@@ -108,6 +120,7 @@
     "img": "https://i.pinimg.com/474x/ed/b8/cb/edb8cbb16e832a3d43f1a27ed91688d1--turkish-actors-guys.jpg"
   },
   {
+    "id": 13,
     "name": "Frank",
     "age": 28,
     "post": "Senior Back-End Developer",
@@ -117,6 +130,7 @@
     "img": "https://images.squarespace-cdn.com/content/v1/51047986e4b0f96ff4ffc8e0/1492104123103-GZYTFQK9HRLYE0HUDN4Q/Mens-Accessories-Tie-Bow-pocket-square"
   },
   {
+    "id": 14,
     "name": "Tom",
     "age": 25,
     "post": "Junior Back-End Developer",
@@ -126,6 +140,7 @@
     "img": "https://d5t4h5a9.rocketcdn.me/wp-content/uploads/2021/04/Website-Photo-18.png"
   },
   {
+    "id": 15,
     "name": "Jesson",
     "age": 29,
     "post": "Sound Composer",
@@ -135,6 +150,7 @@
     "img": "https://images.squarespace-cdn.com/content/v1/530ce8d1e4b067ea68a9f821/1581449962083-67IDC9G953V6NDKW9ULU/corporate+business+headshot+los+angeles.jpg"
   },
   {
+    "id": 16,
     "name": "Edisson",
     "age": 34,
     "post": "Quality Tester",
@@ -144,6 +160,7 @@
     "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Tracy_Wright_Corvo_Photography_busienss_headshot-8.jpg"
   },
   {
+    "id": 17,
     "name": "Ben",
     "age": 28,
     "post": "Database Analyst",
@@ -153,6 +170,7 @@
     "img": "https://2d3z3x4e2xrx130kvm2hxdsp-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Tracy_Wright_Corvo_Photography_branding_portrait-9.jpg"
   },
   {
+    "id": 18,
     "name": "Peter",
     "age": 38,
     "post": "Producer",
@@ -162,6 +180,7 @@
     "img": "https://subphoto.ca/sy-photos/2018/03/27/20/small_d88bf2_2017_Co_Steven-9510_editja2.jpg"
   },
   {
+    "id": 19,
     "name": "Steven",
     "age": 27,
     "post": "Senior AI Expert",
@@ -171,6 +190,7 @@
     "img": "https://subphoto.ca/sy-photos/2018/10/25/16/large_069d54b87_2018_Besney_Jonathan-9837.jpg"
   },
   {
+    "id": 20,
     "name": "Thaichi",
     "age": 24,
     "post": "Junior AI Expert",

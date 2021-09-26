@@ -1,0 +1,57 @@
+.member-grid {
+    border: 2px solid #03a9f5;
+    padding: 30px 20px;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.member-img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    display: block;
+    transition: .5s;
+}
+
+.member-grid:hover, 
+.member-grid:hover >.member-img img{
+    box-shadow: 1px 1px 14px 0px #03a9f5;
+}
+
+.member-details h3 {
+    font-size: 19px;
+    font-weight: 700;
+    transition: .3s;
+}
+
+.member-grid:hover > .member-details h3{
+    color:#03a9f5;
+}
+
+.member-details h2 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.member-details h2, 
+.member-details h3 {
+    line-height: 30px;
+}
+
+button.add-list-btn {
+    border: 1px solid #03a9f5;
+    background-color: #FFFFFF;
+    outline: none;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 5px 15px;
+    margin-top: 15px;
+    transition: .3s;
+}
+
+button.add-list-btn:hover{
+    background-color: #03a9f5;
+    color: #FFFFFF;
+}

@@ -1,0 +1,36 @@
+.addedmember-list {
+    padding: 100px 9px;
+}
+
+.member-list {
+    border: 2px solid #03a9f5;
+    padding: 15px;
+    border-radius: 11px;
+    transition: .5s;
+}
+
+.member-list:hover{
+    box-shadow: 1px 1px 14px 0px #03a9f5;
+}
+
+.member-list h3 {
+    font-size: 17px;
+    color: #03a9f5;
+    font-weight: 600;
+    line-height: 25px;
+}
+
+.member-list h2 {
+    font-size: 28px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: #03a9f5;
+    border: 2px solid transparent;
+    border-bottom: 2px solid #03a9f5;
+    margin-bottom: 24px;
+}
+
+ul#list li {
+    color: #03a9f5;
+    font-weight: 600;
+}
