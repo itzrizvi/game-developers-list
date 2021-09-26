@@ -7,6 +7,7 @@ header.head{
     background-size: cover;
     position: relative;
     text-align: center;
+    box-shadow: 0px 4px 47px 8px #03a9f5;
     z-index: 0;
 }
 header.head::after{

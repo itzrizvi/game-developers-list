@@ -6,6 +6,13 @@
     grid-gap: 15px;
 }
 
+.main-body{
+    background-image: url('../../images/body-bg.jpg');
+    background-size: cover;
+    background-position:top;
+    background-repeat: no-repeat;
+}
+
 
 /** RESPONSIVE  CSS for Grid**/
 @media screen and (max-width:992px){

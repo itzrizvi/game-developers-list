@@ -23,7 +23,7 @@ const Team = () => {
     }
 
     return (
-        <>
+        <div className="main-body">
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-md-9 col-sm-8 col-12">
@@ -44,7 +44,7 @@ const Team = () => {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     );
 };
 
