@@ -18,10 +18,14 @@ const Team = () => {
 
     // Creating New Array for passing data as array
     const handleAddMembers = (member) => {
-        const newMember = [...addmember, member];
-        setAddmember(newMember);
+        // Condition for Duplicate Data
+        if (addmember.indexOf(member) === -1) {
+            const newMember = [...addmember, member];
+            setAddmember(newMember);
+        } else {
+            alert('You Have Already Added This Person!!');
+        }
     }
-
     return (
         <div className="main-body">
             <div className="container-fluid">

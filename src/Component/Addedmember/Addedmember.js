@@ -9,7 +9,6 @@ const Addedmember = (props) => {
     const salaryReducer = (previous, current) => previous + current.salary;
     const totalSalary = addmember.reduce(salaryReducer, 0);
 
-
     return (
         <div className="member-list">
             <h2>Total Summery</h2>
