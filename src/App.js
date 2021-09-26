@@ -1,4 +1,5 @@
 import './App.css';
+// Importing Components
 import Header from './Component/Header/Header';
 import Team from './Component/Team/Team';
 

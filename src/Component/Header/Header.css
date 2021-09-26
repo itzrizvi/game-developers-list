@@ -1,3 +1,5 @@
+/* All Header Styles */
+
 header.head{
     background-image: url('../../images/header-bg.jpg');
     padding: 50px 0px;
@@ -30,6 +32,7 @@ header.head h3{
     line-height: 45px;
 }
 
+/* Navigation Styles */
 nav.navigation a {
     text-decoration: none;
     margin: 10px;

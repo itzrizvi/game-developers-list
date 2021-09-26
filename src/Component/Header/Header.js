@@ -1,4 +1,5 @@
 import React from 'react';
+// Importing Header CSS
 import './Header.css';
 
 const Header = () => {
@@ -8,7 +9,7 @@ const Header = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
-                            <h3>Battle Ground Game Development Project <br />
+                            <h3>Battle Ground Game Development Project.<br />
                                 Project Budget: $50,00,000
                             </h3>
                         </div>

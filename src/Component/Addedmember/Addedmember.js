@@ -1,9 +1,11 @@
 import React from 'react';
+// Importing CSS for this component
 import './Addedmember.css';
 
 const Addedmember = (props) => {
+    // Destructuring
     const { addmember } = props;
-
+    // Using Reducer for total Salary amount
     const salaryReducer = (previous, current) => previous + current.salary;
     const totalSalary = addmember.reduce(salaryReducer, 0);
 
@@ -11,12 +13,13 @@ const Addedmember = (props) => {
     return (
         <div className="member-list">
             <h2>Total Summery</h2>
-            <h3>Total Added: {props.addmember.length} Members</h3>
-            <h3>Total Cost: ${totalSalary}</h3>
+            <h3>Total Added: <span>{props.addmember.length} Members</span></h3>
+            <h3>Total Cost: <span>${totalSalary}</span></h3>
             <h3>Member List:</h3>
             <ul id="list">
                 {
-                    addmember.map(singlemember => <li key={singlemember.age}>{singlemember.name}</li>)
+                    // Using Map for list of names added
+                    addmember.map(singlemember => <li key={singlemember.id}>{singlemember.name}</li>)
                 }
             </ul>
         </div>

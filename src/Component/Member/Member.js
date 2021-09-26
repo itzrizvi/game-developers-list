@@ -1,10 +1,13 @@
 import React from 'react';
+// Using Icons by Installing Font Awesome
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faList } from '@fortawesome/free-solid-svg-icons';
 import './Member.css';
 
 const Member = (props) => {
+    // Icon listed as a Variable
     const listIcon = <FontAwesomeIcon icon={faList} />
+    // Destructuring Data
     const { name, age, post, technology, img, salary, country } = props.member;
 
     return (
@@ -19,7 +22,9 @@ const Member = (props) => {
                 <h2>Technology: {technology}</h2>
                 <h2>Salary: ${salary}</h2>
                 <h2>Country: {country}</h2>
-                <button className="add-list-btn" onClick={() => props.handleAddMember(props.member)}>{listIcon} Add To List</button>
+                <button className="add-list-btn"
+                    onClick={() => props.handleAddMember(props.member)}>
+                    {listIcon} Add To List</button>
             </div>
 
         </div>
