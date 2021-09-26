@@ -38,9 +38,39 @@
 }
 
 ul#list{
-    list-style: upper-alpha;
+    padding: 0;
 }
 
 ul#list li {
-    font-weight: 600;
+    background-color: #03a9f5;
+    margin-bottom: 10px;
+    padding: 10px;
+    list-style: none;
+    font-weight: 700;
+    color: #FFFFFF;
+    border-radius: 7px;
+}
+
+ul#list li img {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
+
+/* RESPONSIVE QUERY */
+@media screen and (max-width: 870px){
+    ul#list li img {
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        display: block;
+    }
+    
+    ul#list li {
+        text-align: center;
+        line-height: 40px;
+    }
 }
